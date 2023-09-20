@@ -201,8 +201,3 @@ df_grp_reg_cat = superstore %>% group_by(Region, Category) %>%
 View(df_grp_reg_cat)
 
 
-
-# GitHub account creation
-
-# Download anaconda
-
